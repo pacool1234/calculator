@@ -1,6 +1,7 @@
 #!usr/bin/python3
 
 def main(msg):
+    # Print a message
     # Different comment to create a merge conflict
     print(msg)
 
